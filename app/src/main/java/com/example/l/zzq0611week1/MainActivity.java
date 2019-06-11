@@ -15,7 +15,9 @@ import com.handmark.pulltorefresh.library.PullToRefreshListView;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+* 展示
+*/
 public class MainActivity extends AppCompatActivity implements Contract.IView {
 
     private PullToRefreshListView m_ptrlv;
